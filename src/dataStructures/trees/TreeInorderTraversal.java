@@ -1,4 +1,4 @@
-package algorithms.trees;
+package dataStructures.trees;
 
 public class TreeInorderTraversal {
 	

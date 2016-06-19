@@ -1,4 +1,4 @@
-package algorithms.trees;
+package dataStructures.trees;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
